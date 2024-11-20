@@ -2,7 +2,8 @@ import streamlit as st
 import requests
 
 # URL del backend FastAPI
-FASTAPI_URL = " https://b59b-2001-1388-4fc2-31d8-d1e0-ce5b-8df6-4b.ngrok-free.app/chat/"
+with st.sidebar:
+    FASTAPI_URL = st.text_input("Ingrese la URL de su API:", placeholder="API")+"/chat/"
 
 st.title("💬 Chatbot")
 
