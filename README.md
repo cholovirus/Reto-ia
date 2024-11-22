@@ -53,6 +53,7 @@ Este proyecto consta de dos componentes principales: un **frontend** interactivo
 7. Colocar la URL de la api, en este caso la URL generada por ngrok
    ![image](https://github.com/user-attachments/assets/1806eb60-186c-4aab-864b-4e83c86bb6b2)
 
---- **Notas Adicionales **
+--- 
+**Notas Adicionales **
 Asegúrate de que las dependencias como nltk están configuradas correctamente. Por ejemplo, descarga los recursos necesarios:
 - python -m nltk.downloader stopwords
