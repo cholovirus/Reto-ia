@@ -51,8 +51,9 @@ Este proyecto consta de dos componentes principales: un **frontend** interactivo
 5. Ejecutar "ngrok http 8000" (tener en cuenta tener el .exe de ngrok y colocar la llave)
 6. Ejecutar "streamlit run front.py"
 7. Colocar la URL de la api, en este caso la URL generada por ngrok
-   ![image](https://github.com/user-attachments/assets/1806eb60-186c-4aab-864b-4e83c86bb6b2)
-
+   <p align="center">
+     <img src="https://github.com/user-attachments/assets/1806eb60-186c-4aab-864b-4e83c86bb6b2" alt="image">
+   </p>
 --- 
 **Notas Adicionales**
 
