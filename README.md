@@ -55,5 +55,6 @@ Este proyecto consta de dos componentes principales: un **frontend** interactivo
 
 --- 
 **Notas Adicionales**
+
 Asegúrate de que las dependencias como nltk están configuradas correctamente. Por ejemplo, descarga los recursos necesarios:
 - python -m nltk.downloader stopwords
